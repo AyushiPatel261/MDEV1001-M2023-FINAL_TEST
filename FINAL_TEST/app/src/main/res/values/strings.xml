@@ -16,4 +16,20 @@
     <string name="enter_your_email_id">Enter your email Id</string>
     <string name="email_id">Email Id</string>
     <string name="famous_people_app_login">Famous People App Login</string>
+    <string name="app_register">App Register</string>
+    <string name="first_name">First Name</string>
+    <string name="enter_first_name">Enter First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="enter_last_name">Enter Last Name</string>
+    <string name="email_id_register">Email Id</string>
+    <string name="enter_email_id">Enter Email id</string>
+    <string name="username">Username</string>
+    <string name="enter_username">Enter username</string>
+    <string name="password_register">Password</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="enter_confirm_password">Enter confirm Password</string>
+    <string name="register">Register</string>
+    <string name="already_have_an_account">Already Have an Account?</string>
+    <string name="login_register">Login</string>
 </resources>

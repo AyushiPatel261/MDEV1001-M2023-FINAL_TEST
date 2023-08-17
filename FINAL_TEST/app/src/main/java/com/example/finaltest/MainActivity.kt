@@ -26,7 +26,7 @@ class MainActivity : AppCompatActivity() {
         btnLogin = findViewById(R.id.loginButton)
         btnRegister = findViewById(R.id.registerButton)
         btnRegister.setOnClickListener {
-            val intent = Intent(this, MainActivity::class.java)
+            val intent = Intent(this, RegisterActivity::class.java)
             startActivity(intent)
         }
         firebaseAuth = FirebaseAuth.getInstance()
@@ -39,7 +39,7 @@ class MainActivity : AppCompatActivity() {
 
                 firebaseAuth.signInWithEmailAndPassword(email, pass).addOnCompleteListener {
                     if (it.isSuccessful) {
-                        val intent = Intent(this, MainActivity::class.java)
+                        val intent = Intent(this, MovieListActivity::class.java)
                         startActivity(intent)
 
                     } else {
@@ -54,7 +54,7 @@ class MainActivity : AppCompatActivity() {
     override fun onStart() {
         super.onStart()
         if (firebaseAuth.currentUser != null) {
-            val intent = Intent(this, MainActivity::class.java)
+            val intent = Intent(this, MovieListActivity::class.java)
             startActivity(intent)
         }
     }
