@@ -8,7 +8,7 @@
     "birthPlace": "Ulm, Germany",
     "bio": "Albert Einstein was a theoretical physicist known for developing the theory of relativity.",
     "achievements": ["Nobel Prize in Physics", "Theory of General Relativity"],
-    "imageURL": "https://example.com/einstein.jpg"
+    "imageURL": "https://tse2.mm.bing.net/th?id=OIP.JIeQdew0rQkP2QMqQt21qQHaJ4&pid=Api&P=0&h=180"
   },
   {
     "peopleID": 2,
@@ -19,7 +19,7 @@
     "birthPlace": "Warsaw, Poland",
     "bio": "Marie Curie was a pioneering physicist and chemist, known for her research on radioactivity.",
     "achievements": ["Nobel Prizes in Physics and Chemistry", "Discovery of Radium and Polonium"],
-    "imageURL": "https://example.com/curie.jpg"
+    "imageURL": "https://tse3.mm.bing.net/th?id=OIP.TG9Ww4f-xt3pmVnFX7gYkQAAAA&pid=Api&P=0&h=180"
   },
   {
     "peopleID": 3,
@@ -30,7 +30,7 @@
     "birthPlace": "Stratford-upon-Avon, England",
     "bio": "William Shakespeare is widely regarded as one of the greatest playwrights in history.",
     "achievements": ["Iconic Plays and Sonnets", "Influence on English Literature"],
-    "imageURL": "https://example.com/shakespeare.jpg"
+    "imageURL": "https://tse4.mm.bing.net/th?id=OIP.f4ZcbklAgUtCNlkYXSzhkAAAAA&pid=Api&P=0&h=180"
   },
   {
     "peopleID": 4,
@@ -41,7 +41,7 @@
     "birthPlace": "Anchiano, Italy",
     "bio": "Leonardo da Vinci was a Renaissance genius known for his contributions to art, science, and anatomy.",
     "achievements": ["Mona Lisa", "Vitruvian Man", "Advancements in Various Sciences"],
-    "imageURL": "https://example.com/davinci.jpg"
+    "imageURL": "https://tse2.explicit.bing.net/th?id=OIP.U0VvQbBNQE3WB2lDdaQNogHaJ8&pid=Api&P=0&h=180"
   },
   {
     "peopleID": 5,
@@ -52,7 +52,7 @@
     "birthPlace": "Mvezo, South Africa",
     "bio": "Nelson Mandela was a prominent anti-apartheid revolutionary and the first President of South Africa.",
     "achievements": ["Anti-Apartheid Movement", "Nobel Peace Prize", "Reconciliation Efforts"],
-    "imageURL": "https://example.com/mandela.jpg"
+    "imageURL": "https://tse2.mm.bing.net/th?id=OIP.bWML2x0ASNsdL6wFfhxNPAHaJi&pid=Api&P=0&h=180"
   },
   {
     "peopleID": 6,
@@ -63,7 +63,7 @@
     "birthPlace": "Atchison, Kansas, USA",
     "bio": "Amelia Earhart was a pioneering aviator, becoming the first woman to fly solo across the Atlantic Ocean.",
     "achievements": ["Transatlantic Flight", "Promotion of Women in Aviation"],
-    "imageURL": "https://example.com/earhart.jpg"
+    "imageURL": "https://tse2.mm.bing.net/th?id=OIP.rxzxjyEq2dOoG283uIPHtwHaJR&pid=Api&P=0&h=180"
   },
   {
     "peopleID": 7,
@@ -74,7 +74,7 @@
     "birthPlace": "Atlanta, Georgia, USA",
     "bio": "Martin Luther King Jr. was a prominent leader in the American civil rights movement, advocating for equality through nonviolent protests.",
     "achievements": ["March on Washington", "Nobel Peace Prize", "Advancement of Civil Rights"],
-    "imageURL": "https://example.com/mlk.jpg"
+    "imageURL": "https://tse3.mm.bing.net/th?id=OIP.yLYfaFpjGkPocZ4eb41xHQHaJK&pid=Api&P=0&h=180"
   },
   {
     "peopleID": 8,
@@ -85,7 +85,7 @@
     "birthPlace": "Saumur, France",
     "bio": "Coco Chanel revolutionized fashion and is known for her timeless designs and the creation of the Chanel brand.",
     "achievements": ["Little Black Dress", "Chanel No. 5 Perfume"],
-    "imageURL": "https://example.com/chanel.jpg"
+    "imageURL": "https://tse1.mm.bing.net/th?id=OIP.8Tu276cl_APAWjryFNedBwHaJ3&pid=Api&P=0&h=180"
   },
   {
     "peopleID": 9,
@@ -96,7 +96,7 @@
     "birthPlace": "Málaga, Spain",
     "bio": "Pablo Picasso was a prolific artist and a key figure in the development of modern art, co-founding Cubism.",
     "achievements": ["Guernica", "Les Demoiselles d'Avignon"],
-    "imageURL": "https://example.com/picasso.jpg"
+    "imageURL": "https://tse4.mm.bing.net/th?id=OIP.eT38Rvy__nVY_XZFh2-8XQHaJQ&pid=Api&P=0&h=180"
   },
   {
     "peopleID": 10,
@@ -107,6 +107,6 @@
     "birthPlace": "Pretoria, South Africa",
     "bio": "Elon Musk is a visionary entrepreneur known for founding SpaceX, Tesla, and other innovative companies.",
     "achievements": ["SpaceX Achievements", "Tesla Electric Cars"],
-    "imageURL": "https://example.com/musk.jpg"
+    "imageURL": "https://tse4.mm.bing.net/th?id=OIP._DMBJf2jzVIVJjFhpS_aKgHaLH&pid=Api&P=0&h=180"
   }
 ]

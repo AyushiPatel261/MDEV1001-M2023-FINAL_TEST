@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">FinalTest</string>
+    <string name="txtview_create_an_account">Create an Account?\n</string>
+    <string name="btn_register_here">Register Here\n</string>
+    <string name="btn_login">Login\n</string>
+    <string name="edittext_enter_your_password">Enter Your Password\n</string>
+    <string name="txtview_password">Password\n</string>
+    <string name="edittext_enter_your_username">Enter your Email Id\n</string>
+    <string name="txtview_username">Email Id\n</string>
+    <string name="label_movie_app_login">Famous People App Login\n</string>
+    <string name="register_here">Register Here</string>
+    <string name="no_account">No Account?</string>
+    <string name="login">Login</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="password">password</string>
+    <string name="enter_your_email_id">Enter your email Id</string>
+    <string name="email_id">Email Id</string>
+    <string name="famous_people_app_login">Famous People App Login</string>
 </resources>
