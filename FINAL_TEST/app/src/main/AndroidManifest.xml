@@ -13,7 +13,7 @@
         android:theme="@style/Theme.FinalTest"
         tools:targetApi="31">
         <activity
-            android:name=".MovieListActivity"
+            android:name=".FamousPeopleListActivity"
             android:exported="false" />
         <activity
             android:name=".RegisterActivity"

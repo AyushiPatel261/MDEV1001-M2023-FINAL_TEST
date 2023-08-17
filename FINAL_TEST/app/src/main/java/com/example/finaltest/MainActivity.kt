@@ -39,9 +39,8 @@ class MainActivity : AppCompatActivity() {
 
                 firebaseAuth.signInWithEmailAndPassword(email, pass).addOnCompleteListener {
                     if (it.isSuccessful) {
-                        val intent = Intent(this, MovieListActivity::class.java)
+                        val intent = Intent(this, FamousPeopleListActivity::class.java)
                         startActivity(intent)
-
                     } else {
                         Toast.makeText(this, it.exception.toString(), Toast.LENGTH_SHORT).show()
                     }
@@ -54,7 +53,7 @@ class MainActivity : AppCompatActivity() {
     override fun onStart() {
         super.onStart()
         if (firebaseAuth.currentUser != null) {
-            val intent = Intent(this, MovieListActivity::class.java)
+            val intent = Intent(this, FamousPeopleListActivity::class.java)
             startActivity(intent)
         }
     }
