@@ -1,0 +1,112 @@
+[
+  {
+    "peopleID": 1,
+    "name": "Albert Einstein",
+    "occupation": "Physicist",
+    "nationality": "German",
+    "birthDate": "March 14, 1879",
+    "birthPlace": "Ulm, Germany",
+    "bio": "Albert Einstein was a theoretical physicist known for developing the theory of relativity.",
+    "achievements": ["Nobel Prize in Physics", "Theory of General Relativity"],
+    "imageURL": "https://example.com/einstein.jpg"
+  },
+  {
+    "peopleID": 2,
+    "name": "Marie Curie",
+    "occupation": "Chemist",
+    "nationality": "Polish",
+    "birthDate": "November 7, 1867",
+    "birthPlace": "Warsaw, Poland",
+    "bio": "Marie Curie was a pioneering physicist and chemist, known for her research on radioactivity.",
+    "achievements": ["Nobel Prizes in Physics and Chemistry", "Discovery of Radium and Polonium"],
+    "imageURL": "https://example.com/curie.jpg"
+  },
+  {
+    "peopleID": 3,
+    "name": "William Shakespeare",
+    "occupation": "Playwright",
+    "nationality": "English",
+    "birthDate": "April 26, 1564",
+    "birthPlace": "Stratford-upon-Avon, England",
+    "bio": "William Shakespeare is widely regarded as one of the greatest playwrights in history.",
+    "achievements": ["Iconic Plays and Sonnets", "Influence on English Literature"],
+    "imageURL": "https://example.com/shakespeare.jpg"
+  },
+  {
+    "peopleID": 4,
+    "name": "Leonardo da Vinci",
+    "occupation": "Polymath",
+    "nationality": "Italian",
+    "birthDate": "April 15, 1452",
+    "birthPlace": "Anchiano, Italy",
+    "bio": "Leonardo da Vinci was a Renaissance genius known for his contributions to art, science, and anatomy.",
+    "achievements": ["Mona Lisa", "Vitruvian Man", "Advancements in Various Sciences"],
+    "imageURL": "https://example.com/davinci.jpg"
+  },
+  {
+    "peopleID": 5,
+    "name": "Nelson Mandela",
+    "occupation": "Activist",
+    "nationality": "South African",
+    "birthDate": "July 18, 1918",
+    "birthPlace": "Mvezo, South Africa",
+    "bio": "Nelson Mandela was a prominent anti-apartheid revolutionary and the first President of South Africa.",
+    "achievements": ["Anti-Apartheid Movement", "Nobel Peace Prize", "Reconciliation Efforts"],
+    "imageURL": "https://example.com/mandela.jpg"
+  },
+  {
+    "peopleID": 6,
+    "name": "Amelia Earhart",
+    "occupation": "Aviator",
+    "nationality": "American",
+    "birthDate": "July 24, 1897",
+    "birthPlace": "Atchison, Kansas, USA",
+    "bio": "Amelia Earhart was a pioneering aviator, becoming the first woman to fly solo across the Atlantic Ocean.",
+    "achievements": ["Transatlantic Flight", "Promotion of Women in Aviation"],
+    "imageURL": "https://example.com/earhart.jpg"
+  },
+  {
+    "peopleID": 7,
+    "name": "Martin Luther King Jr.",
+    "occupation": "Civil Rights Leader",
+    "nationality": "American",
+    "birthDate": "January 15, 1929",
+    "birthPlace": "Atlanta, Georgia, USA",
+    "bio": "Martin Luther King Jr. was a prominent leader in the American civil rights movement, advocating for equality through nonviolent protests.",
+    "achievements": ["March on Washington", "Nobel Peace Prize", "Advancement of Civil Rights"],
+    "imageURL": "https://example.com/mlk.jpg"
+  },
+  {
+    "peopleID": 8,
+    "name": "Coco Chanel",
+    "occupation": "Fashion Designer",
+    "nationality": "French",
+    "birthDate": "August 19, 1883",
+    "birthPlace": "Saumur, France",
+    "bio": "Coco Chanel revolutionized fashion and is known for her timeless designs and the creation of the Chanel brand.",
+    "achievements": ["Little Black Dress", "Chanel No. 5 Perfume"],
+    "imageURL": "https://example.com/chanel.jpg"
+  },
+  {
+    "peopleID": 9,
+    "name": "Pablo Picasso",
+    "occupation": "Artist",
+    "nationality": "Spanish",
+    "birthDate": "October 25, 1881",
+    "birthPlace": "Málaga, Spain",
+    "bio": "Pablo Picasso was a prolific artist and a key figure in the development of modern art, co-founding Cubism.",
+    "achievements": ["Guernica", "Les Demoiselles d'Avignon"],
+    "imageURL": "https://example.com/picasso.jpg"
+  },
+  {
+    "peopleID": 10,
+    "name": "Elon Musk",
+    "occupation": "Entrepreneur",
+    "nationality": "American",
+    "birthDate": "June 28, 1971",
+    "birthPlace": "Pretoria, South Africa",
+    "bio": "Elon Musk is a visionary entrepreneur known for founding SpaceX, Tesla, and other innovative companies.",
+    "achievements": ["SpaceX Achievements", "Tesla Electric Cars"],
+    "imageURL": "https://example.com/musk.jpg"
+  }
+]
