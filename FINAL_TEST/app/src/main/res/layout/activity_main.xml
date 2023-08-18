@@ -35,7 +35,7 @@
         android:layout_marginTop="10dp"
         android:autofillHints="emailAddress"
         android:hint="@string/enter_your_email_id"
-        android:inputType="text"
+        android:inputType="textEmailAddress"
         android:textSize="14sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="@id/usernameLabel"

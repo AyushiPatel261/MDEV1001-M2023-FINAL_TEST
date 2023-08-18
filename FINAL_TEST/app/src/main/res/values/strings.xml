@@ -43,4 +43,7 @@
     <string name="edit_famous_people">Edit Famous People</string>
     <string name="cancel">Cancel</string>
     <string name="update">Update</string>
+    <string name="x">X</string>
+    <string name="favourite_famous_npeople">Favourite Famous \nPeople</string>
+    <string name="plus">+</string>
 </resources>
