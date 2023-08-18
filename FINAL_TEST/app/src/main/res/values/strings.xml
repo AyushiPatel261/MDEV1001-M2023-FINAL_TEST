@@ -32,4 +32,15 @@
     <string name="register">Register</string>
     <string name="already_have_an_account">Already Have an Account?</string>
     <string name="login_register">Login</string>
+    <string name="achievements">Achievements</string>
+    <string name="bio">Bio</string>
+    <string name="birthplace">BirthPlace</string>
+    <string name="birthdate">Birthdate</string>
+    <string name="nationality">Nationality</string>
+    <string name="occupation">Occupation</string>
+    <string name="name">Name</string>
+    <string name="famous_people_id">Famous people ID</string>
+    <string name="edit_famous_people">Edit Famous People</string>
+    <string name="cancel">Cancel</string>
+    <string name="update">Update</string>
 </resources>

@@ -29,6 +29,5 @@ data class FamousPeople(
         "",
         mutableListOf(),
         "",
-
     )
 }

@@ -39,7 +39,6 @@ class FamousPeopleAdapter(private val context: Context, private val famousPeople
             onDeleteClickListener?.invoke(famPeople)
         }
         //Set the background color of ratingTextView based on the rating
-        val context = holder.itemView.context
         holder.constraintLayout.setOnClickListener {
             famousPeopleUpdateCallback?.invoke(famPeople)
         }

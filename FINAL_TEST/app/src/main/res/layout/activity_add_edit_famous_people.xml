@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AddEditFamousPeopleActivity">
+
+    <TextView
+        android:id="@+id/txtViewAddEditFamousPeople"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="@string/edit_famous_people"
+        android:textColor="@color/black"
+        android:textSize="24sp"
+        android:textStyle="bold|italic"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:inputType="text"
+        android:autofillHints="name"
+        android:id="@+id/editTextPeopleId"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:hint="@string/famous_people_id"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/txtViewAddEditFamousPeople" />
+
+    <EditText
+        android:inputType="textPersonName"
+        android:id="@+id/editTextName"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:hint="@string/name"
+        android:textSize="20sp"
+        android:autofillHints="name"
+        app:layout_constraintEnd_toEndOf="@id/editTextPeopleId"
+        app:layout_constraintStart_toStartOf="@id/editTextPeopleId"
+        app:layout_constraintTop_toBottomOf="@+id/editTextPeopleId" />
+
+    <EditText
+        android:inputType="text"
+        android:id="@+id/editTextOccupation"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:autofillHints="name"
+        android:hint="@string/occupation"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="@id/editTextName"
+        app:layout_constraintStart_toStartOf="@id/editTextName"
+        app:layout_constraintTop_toBottomOf="@id/editTextName" />
+
+
+    <EditText
+        android:id="@+id/editTextNationality"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:autofillHints="name"
+        android:hint="@string/nationality"
+        android:inputType="text"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="@id/editTextOccupation"
+        app:layout_constraintStart_toStartOf="@id/editTextOccupation"
+        app:layout_constraintTop_toBottomOf="@id/editTextOccupation" />
+
+    <EditText
+        android:id="@+id/editTextBirthDate"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:autofillHints="name"
+        android:hint="@string/birthdate"
+        android:inputType="text"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="@id/editTextNationality"
+        app:layout_constraintStart_toStartOf="@id/editTextNationality"
+        app:layout_constraintTop_toBottomOf="@id/editTextNationality"
+        tools:ignore="TextFields" />
+
+    <EditText
+        android:id="@+id/editTextBirthPlace"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:hint="@string/birthplace"
+        android:inputType="text"
+        android:textSize="20sp"
+        android:autofillHints="name"
+        app:layout_constraintEnd_toEndOf="@id/editTextBirthDate"
+        app:layout_constraintStart_toStartOf="@id/editTextBirthDate"
+        app:layout_constraintTop_toBottomOf="@id/editTextBirthDate" />
+
+
+    <EditText
+        android:id="@+id/editTextBio"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:autofillHints="name"
+        android:hint="@string/bio"
+        android:inputType="text"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="@id/editTextBirthPlace"
+        app:layout_constraintStart_toStartOf="@id/editTextBirthPlace"
+        app:layout_constraintTop_toBottomOf="@id/editTextBirthPlace" />
+
+    <EditText
+        android:id="@+id/editTextAchievements"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:autofillHints="name"
+        android:hint="@string/achievements"
+        android:inputType="text"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="@id/editTextBio"
+        app:layout_constraintTop_toBottomOf="@id/editTextBio" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btnCancel"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="10dp"
+        android:layout_marginBottom="20dp"
+        android:background="@drawable/bg_btn_register"
+        android:text="@string/cancel"
+        android:textColor="@color/white"
+        android:textSize="22sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@id/buttonUpdate"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/buttonUpdate"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="10dp"
+        android:layout_marginBottom="20dp"
+        android:background="@drawable/bg_btn_register"
+        android:text="@string/update"
+        android:textColor="@color/white"
+        android:textSize="22sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@id/btnCancel" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
